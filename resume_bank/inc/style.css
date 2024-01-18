@@ -1,0 +1,25 @@
+
+
+
+body {
+    background: url('images/bg1.avif') center top no-repeat;
+    background-size: cover;
+}
+
+#database {
+    margin: 5% auto;
+}
+#database #table {
+    background:#000;
+    margin: 0px auto ;
+    color: #fff;
+}
+#database h1 {
+    font-size: 45px;
+    margin: 0px auto  20px;
+    text-align: center;
+}
+#database hr {
+    color: #000;
+    margin: 0px 37.125% 20px;
+}
